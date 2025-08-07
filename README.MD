@@ -1,4 +1,4 @@
-# Analyzing Timelines and Eddectiveness in US Healthcare Delivery
+# Analyzing Timelines and Effectiveness in US Healthcare Delivery
 
 This Project Dives into real world hospital performance, mainly focusing on emergency services using CMS dataset to wait times across United States.
 
