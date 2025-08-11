@@ -26,8 +26,9 @@ This project uses a combination of python and tableau dashboard to explore the i
 3. Env.py- Hidden file which is not in my repository, but used to store postgres Database credentials.
 
 # Live Interactive Dashboard
-Dashboard-1 : "https://public.tableau.com/views/Final_analysis_3/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
-Dashboard-2 : "https://public.tableau.com/views/Final_analysis_4/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+
+- [Dashboard-1](https://public.tableau.com/views/Final_analysis_3/Dashboard1?:language=enUS&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Dashboard-2](https://public.tableau.com/views/Final_analysis_4/Dashboard2?:language=enUS&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
